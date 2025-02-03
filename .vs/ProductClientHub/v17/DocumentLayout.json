@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41CF9833-F117-40C3-AEFC-CEEAFF1D7211}|Solution Items{41CF9833-F117-40C3-AEFC-CEEAFF1D7211}|C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{41CF9833-F117-40C3-AEFC-CEEAFF1D7211}|Solution Items{41CF9833-F117-40C3-AEFC-CEEAFF1D7211}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B02E5D0-2E51-48E3-B1A0-7FB4761A91B9}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\productclienthubexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B02E5D0-2E51-48E3-B1A0-7FB4761A91B9}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\productclienthubexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B02E5D0-2E51-48E3-B1A0-7FB4761A91B9}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.exceptions\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B02E5D0-2E51-48E3-B1A0-7FB4761A91B9}|ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj|solutionrelative:productclienthub.exceptions\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,23 +42,71 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-02-03T16:49:30.546Z",
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:35:04.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ErrorOnValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:26:59.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductClientHubException.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientHubException.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientHubException.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientHubException.cs",
+              "RelativeToolTip": "ProductClientHub.Exceptions\\ExceptionsBase\\ProductClientHubException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:25:25.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Program.cs",
+              "RelativeToolTip": "ProductClientHub.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:16:25.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "ProductClientHub.API\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:12:36.117Z",
               "EditorCaption": ""
             }
           ]
