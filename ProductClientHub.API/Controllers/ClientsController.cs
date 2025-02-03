@@ -51,6 +51,7 @@ public class ClientsController : ControllerBase
 
     [HttpGet]
     [Route("{id}")] // impede de aceitar nulo, tendo em vista que essa rota foi criada com o intuito de buscar um valor específico
+
     // [HttpGet("By-Id")]
 
     public IActionResult GetById([FromRoute] Guid id)
