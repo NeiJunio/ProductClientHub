@@ -1,0 +1,11 @@
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.deps.json
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.dll
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfoInputs.cache
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfo.cs
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.dll
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\refint\ProductClientHub.Communication.dll
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.pdb
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ref\ProductClientHub.Communication.dll
