@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB8C5638-5128-4AB7-95E2-60B8C55943BA}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8C5638-5128-4AB7-95E2-60B8C55943BA}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\responses\\responseerrormessagesjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,14 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ResponseErrorMessagesJson.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs*",
+              "RelativeToolTip": "ProductClientHub.Communication\\Responses\\ResponseErrorMessagesJson.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:56:35.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwAoAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs*",
+              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T03:45:10.93Z",
+              "WhenOpened": "2025-02-03T14:54:50.331Z",
               "EditorCaption": ""
             }
           ]

@@ -39,3 +39,4 @@ C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\De
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\ProductClientHub.API.genruntimeconfig.cache
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\ref\ProductClientHub.API.dll
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\ProductClientHub.API.sourcelink.json

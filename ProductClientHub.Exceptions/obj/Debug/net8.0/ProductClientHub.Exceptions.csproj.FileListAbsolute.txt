@@ -9,3 +9,4 @@ C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\refint\ProductClientHub.Exceptions.dll
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.pdb
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ref\ProductClientHub.Exceptions.dll
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.sourcelink.json

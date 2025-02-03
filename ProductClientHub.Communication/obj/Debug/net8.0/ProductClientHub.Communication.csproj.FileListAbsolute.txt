@@ -9,3 +9,4 @@ C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communicat
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\refint\ProductClientHub.Communication.dll
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.pdb
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ref\ProductClientHub.Communication.dll
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.sourcelink.json

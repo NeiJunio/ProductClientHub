@@ -1,6 +1,4 @@
-﻿using System.Net.NetworkInformation;
-
-namespace ProductClientHub.Communication.Responses
+﻿namespace ProductClientHub.Communication.Responses
 {
     public class ResponseErrorMessagesJson
     {
@@ -9,6 +7,11 @@ namespace ProductClientHub.Communication.Responses
         public ResponseErrorMessagesJson(string message)
         {
             Errors = [message];
+        }
+
+        public ResponseErrorMessagesJson(List<string> messages)
+        {
+            Errors = messages;
         }
     }
 }

@@ -1,6 +1,8 @@
-﻿using ProductClientHub.API.UseCases.Clients.Register;
+﻿using Microsoft.AspNetCore.Mvc;
+using ProductClientHub.API.UseCases.Clients.Register;
 using ProductClientHub.Communication.Requests;
 using ProductClientHub.Communication.Responses;
+using ProductClientHub.Exceptions.ExceptionsBase;
 
 namespace ProductClientHub.API.Controllers;
 
@@ -10,8 +12,9 @@ namespace ProductClientHub.API.Controllers;
 public class ClientsController : ControllerBase
 {
     [HttpPost]
-    [ProducesResponseType(typeof(ResponseClientJson), StatusCodes.Status201Created)];
-    [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status400BadRequest)];
+    [ProducesResponseType(typeof(ResponseClientJson), StatusCodes.Status201Created)]
+    [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status400BadRequest)]
+
     public IActionResult Register([FromBody] RequestClientJson request)
     {
         try
@@ -22,9 +25,11 @@ public class ClientsController : ControllerBase
 
             return Created(string.Empty, response);
         }
-        catch (ArgumentException ex)
+        catch (ProductClientHubException ex)
         {
-            return BadRequest(new ResponseErrorMessagesJson(ex.Message));
+            var errors = ex.GetErrors();
+
+            return BadRequest(new ResponseErrorMessagesJson(errors));
         }
         catch
         {
