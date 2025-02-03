@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41CF9833-F117-40C3-AEFC-CEEAFF1D7211}|Solution Items{41CF9833-F117-40C3-AEFC-CEEAFF1D7211}|C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{41CF9833-F117-40C3-AEFC-CEEAFF1D7211}|Solution Items{41CF9833-F117-40C3-AEFC-CEEAFF1D7211}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:44:06.163Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -44,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-03T16:49:30.546Z",
+              "EditorCaption": ""
             }
           ]
         }
