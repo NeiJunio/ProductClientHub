@@ -2,7 +2,9 @@
 {
     public class ResponseErrorMessagesJson
     {
-        public List<string> Errors { get; private set; }
+        private object value;
+
+        public  List<string> Errors { get; private set; } = new();
 
         public ResponseErrorMessagesJson(string message)
         {
@@ -12,6 +14,12 @@
         public ResponseErrorMessagesJson(List<string> messages)
         {
             Errors = messages;
+        }
+
+        public ResponseErrorMessagesJson(object value)
+        {
+            this.value = value;
+            Errors = new(); // Garante que Errors nunca seja null
         }
     }
 }

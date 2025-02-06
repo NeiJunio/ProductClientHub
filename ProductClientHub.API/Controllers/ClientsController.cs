@@ -34,6 +34,10 @@ public class ClientsController : ControllerBase
     public IActionResult GetAll()
     {
         return Ok();
+        //return Ok(new
+        //{
+            
+        //});
     }
 
     [HttpGet]

@@ -1,4 +1,6 @@
+using Microsoft.EntityFrameworkCore;
 using ProductClientHub.API.Filters;
+using ProductClientHub.API.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddMvc(option => option.Filters.Add(typeof(ExceptionFilter)));
+
 
 var app = builder.Build();
 

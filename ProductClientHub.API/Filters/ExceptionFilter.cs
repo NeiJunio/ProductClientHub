@@ -14,7 +14,6 @@ namespace ProductClientHub.API.Filters
             {
                 context.HttpContext.Response.StatusCode = (int)productClientHubException.GetHttpStatusCode();
 
-                // ver dps
                 context.Result = new ObjectResult(new ResponseErrorMessagesJson(productClientHubException.GetErrors()));
             }
             else
@@ -22,7 +21,7 @@ namespace ProductClientHub.API.Filters
                 ThrowUnknowError(context);
             }
         }
-        private void ThrowUnknowError(ExceptionContext context)
+        private static void ThrowUnknowError(ExceptionContext context)
         {
             context.HttpContext.Response.StatusCode = StatusCodes.Status500InternalServerError;
             context.Result = new ObjectResult(new ResponseErrorMessagesJson("ERRO DESCONHECIDO"));
