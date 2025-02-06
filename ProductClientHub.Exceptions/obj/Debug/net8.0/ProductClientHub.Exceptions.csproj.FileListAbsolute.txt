@@ -1,12 +1,24 @@
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\bin\Debug\net8.0\ProductClientHub.Exceptions.deps.json
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\bin\Debug\net8.0\ProductClientHub.Exceptions.dll
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\bin\Debug\net8.0\ProductClientHub.Exceptions.pdb
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.AssemblyInfoInputs.cache
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.AssemblyInfo.cs
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.csproj.CoreCompileInputs.cache
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.dll
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\refint\ProductClientHub.Exceptions.dll
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.pdb
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ref\ProductClientHub.Exceptions.dll
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net8.0\ProductClientHub.Exceptions.sourcelink.json
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/bin/Debug/net8.0/ProductClientHub.Exceptions.deps.json
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/bin/Debug/net8.0/ProductClientHub.Exceptions.dll
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/bin/Debug/net8.0/ProductClientHub.Exceptions.pdb
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.AssemblyInfoInputs.cache
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.AssemblyInfo.cs
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.csproj.CoreCompileInputs.cache
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.dll
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/refint/ProductClientHub.Exceptions.dll
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.pdb
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ref/ProductClientHub.Exceptions.dll
+C:/Users/Nei Junio/Documents/GitHub/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.sourcelink.json
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/bin/Debug/net8.0/ProductClientHub.Exceptions.deps.json
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/bin/Debug/net8.0/ProductClientHub.Exceptions.dll
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/bin/Debug/net8.0/ProductClientHub.Exceptions.pdb
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.AssemblyInfoInputs.cache
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.AssemblyInfo.cs
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.csproj.CoreCompileInputs.cache
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.sourcelink.json
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.dll
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/refint/ProductClientHub.Exceptions.dll
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ProductClientHub.Exceptions.pdb
+/home/luidy/Documents/estudo/ProductClientHub/ProductClientHub.Exceptions/obj/Debug/net8.0/ref/ProductClientHub.Exceptions.dll

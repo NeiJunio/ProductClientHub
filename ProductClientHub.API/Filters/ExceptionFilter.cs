@@ -18,13 +18,13 @@ namespace ProductClientHub.API.Filters
             }
             else
             {
-                ThrowUnknowError(context);
+                ThrowUnknowError(context, context.Exception);
             }
         }
-        private static void ThrowUnknowError(ExceptionContext context)
+        private static void ThrowUnknowError(ExceptionContext context, Exception ex)
         {
             context.HttpContext.Response.StatusCode = StatusCodes.Status500InternalServerError;
-            context.Result = new ObjectResult(new ResponseErrorMessagesJson("ERRO DESCONHECIDO"));
+            context.Result = new ObjectResult(new ResponseErrorMessagesJson($"ERRO DESCONHECIDO\ndetails:\n{ex.Message}"));
         }
     }
 }
