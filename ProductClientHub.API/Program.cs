@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ProductClientHub.API.Filters;
 using ProductClientHub.API.Infrastructure;
+using ProductClientHub.API.UseCases.Clients.Register;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,14 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddMvc(option => option.Filters.Add(typeof(ExceptionFilter)));
 
+builder.Services.AddDbContext<ProductClientHubDbContext>(options =>
+{
+    options.UseSqlite("Data Source=banco.db");
+});
+builder.Services.AddScoped<RegisterClientUseCase>();
+
+
+//builder.Services.AddDbContext<ProductClientHubDbContext>();
 
 var app = builder.Build();
 

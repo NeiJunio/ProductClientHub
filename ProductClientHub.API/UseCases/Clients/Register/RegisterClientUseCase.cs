@@ -7,14 +7,13 @@ using ProductClientHub.Exceptions.ExceptionsBase;
 
 namespace ProductClientHub.API.UseCases.Clients.Register
 {
-    public class RegisterClientUseCase
+    public class RegisterClientUseCase(ProductClientHubDbContext context)
     {
+
         public ResponseClientJson Execute(RequestClientJson request)
         {
 
             Validate(request);
-
-            var dbContext = new ProductClientHubDbContext();
 
             var entity = new Client
             {
@@ -22,9 +21,9 @@ namespace ProductClientHub.API.UseCases.Clients.Register
                 Email = request.Email
             };
 
-            dbContext.Clients.Add(entity);  
+            context.Clients.Add(entity);  
 
-            dbContext.SaveChanges();
+            context.SaveChanges();
 
             return new ResponseClientJson();
 

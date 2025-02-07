@@ -31,7 +31,6 @@ C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\De
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductClientHub.API.props
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductClientHub.API.props
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\ProductC.4138EFD8.Up2Date
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\ProductClientHub.API.dll
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\refint\ProductClientHub.API.dll
@@ -170,3 +169,4 @@ C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\bin\De
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Nei Junio\Documents\GitHub\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

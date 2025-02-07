@@ -9,7 +9,7 @@ namespace ProductClientHub.API.Controllers;
 [Route("api/[controller]")]
 [ApiController]
 
-public class ClientsController : ControllerBase
+public class ClientsController(RegisterClientUseCase registerClientUseCase) : ControllerBase
 {
     [HttpPost]
     [ProducesResponseType(typeof(ResponseClientJson), StatusCodes.Status201Created)]
@@ -17,9 +17,7 @@ public class ClientsController : ControllerBase
 
     public IActionResult Register([FromBody] RequestClientJson request)
     {
-            var useCase = new RegisterClientUseCase();
-
-            var response = useCase.Execute(request);
+        var response = registerClientUseCase.Execute(request);
 
             return Created(string.Empty, response);
     }
