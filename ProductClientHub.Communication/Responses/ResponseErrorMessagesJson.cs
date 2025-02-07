@@ -2,19 +2,13 @@
 {
     public class ResponseErrorMessagesJson
     {
-        private object value;
+        private readonly object value;
 
         public  List<string> Errors { get; private set; } = new();
 
-        public ResponseErrorMessagesJson(string message)
-        {
-            Errors = [message];
-        }
+        public ResponseErrorMessagesJson(string message) => Errors = [message];
 
-        public ResponseErrorMessagesJson(List<string> messages)
-        {
-            Errors = messages;
-        }
+        public ResponseErrorMessagesJson(List<string> messages) => Errors = messages;
 
         public ResponseErrorMessagesJson(object value)
         {

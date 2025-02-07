@@ -3761,11 +3761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
+      "projectUniqueName": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
       "projectName": "ProductClientHub.API",
-      "projectPath": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
+      "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\ProductClientHub.API.csproj",
       "packagesPath": "C:\\Users\\Nei Junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.API\\obj\\",
+      "outputPath": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3786,11 +3786,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj": {
-              "projectPath": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj"
+            "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj": {
+              "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.Communication\\ProductClientHub.Communication.csproj"
             },
-            "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj": {
-              "projectPath": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj"
+            "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj": {
+              "projectPath": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.Exceptions\\ProductClientHub.Exceptions.csproj"
             }
           }
         }

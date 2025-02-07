@@ -19,7 +19,7 @@ public class ClientsController(RegisterClientUseCase registerClientUseCase) : Co
     {
         var response = registerClientUseCase.Execute(request);
 
-            return Created(string.Empty, response);
+        return Created(string.Empty, response);
     }
 
     [HttpPut]
@@ -34,7 +34,7 @@ public class ClientsController(RegisterClientUseCase registerClientUseCase) : Co
         return Ok();
         //return Ok(new
         //{
-            
+
         //});
     }
 
