@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProductClientHub.API.UseCases.Clients.GetAll;
 using ProductClientHub.API.UseCases.Clients.Register;
+using ProductClientHub.API.UseCases.Clients.Update;
 using ProductClientHub.Communication.Requests;
 using ProductClientHub.Communication.Responses;
 using ProductClientHub.Exceptions.ExceptionsBase;
@@ -12,7 +14,7 @@ namespace ProductClientHub.API.Controllers;
 public class ClientsController(RegisterClientUseCase registerClientUseCase) : ControllerBase
 {
     [HttpPost]
-    [ProducesResponseType(typeof(ResponseClientJson), StatusCodes.Status201Created)]
+    [ProducesResponseType(typeof(ResponseShortClientJson), StatusCodes.Status201Created)]
     [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status400BadRequest)]
 
     public IActionResult Register([FromBody] RequestClientJson request)
@@ -23,19 +25,33 @@ public class ClientsController(RegisterClientUseCase registerClientUseCase) : Co
     }
 
     [HttpPut]
-    public IActionResult Update()
+    [Route("{id}")]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status400BadRequest)]
+    public IActionResult Update([FromRoute] Guid id, [FromBody] RequestClientJson request)
     {
-        return Ok();
+        var useCase = new UpdateClientUseCase();
+
+        useCase.Execute(id, request);
+
+        return NoContent();
     }
 
     [HttpGet]
+    [ProducesResponseType(typeof(ResponseAllClientsJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
     public IActionResult GetAll()
     {
-        return Ok();
-        //return Ok(new
-        //{
+        var useCase = new GetAllClientsUseCase();
 
-        //});
+        var response = useCase.Execute();
+
+        if (response.Clients.Count == 0)
+        {
+            return NoContent();
+        }
+
+        return Ok(response);
     }
 
     [HttpGet]
