@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ProductClientHub.API.Infrastructure;
 
@@ -10,9 +11,11 @@ using ProductClientHub.API.Infrastructure;
 namespace ProductClientHub.API.Migrations
 {
     [DbContext(typeof(ProductClientHubDbContext))]
-    partial class ProductClientHubDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250208161521_AddCascadeDeleteToProducts")]
+    partial class AddCascadeDeleteToProducts
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "9.0.1");

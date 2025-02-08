@@ -7,6 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="UseCases\Clients\NewFolder1\**" />
+    <Compile Remove="UseCases\Clients\NewFolder2\**" />
+    <Compile Remove="UseCases\Clients\NewFolder\**" />
+    <Content Remove="UseCases\Clients\NewFolder1\**" />
+    <Content Remove="UseCases\Clients\NewFolder2\**" />
+    <Content Remove="UseCases\Clients\NewFolder\**" />
+    <EmbeddedResource Remove="UseCases\Clients\NewFolder1\**" />
+    <EmbeddedResource Remove="UseCases\Clients\NewFolder2\**" />
+    <EmbeddedResource Remove="UseCases\Clients\NewFolder\**" />
+    <None Remove="UseCases\Clients\NewFolder1\**" />
+    <None Remove="UseCases\Clients\NewFolder2\**" />
+    <None Remove="UseCases\Clients\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="FluentValidation" Version="11.11.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.1">
