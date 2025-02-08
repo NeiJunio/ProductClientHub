@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\usecases\\clients\\update\\updateclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\usecases\\clients\\update\\updateclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
               "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
               "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T23:01:54.008Z",
+              "WhenOpened": "2025-02-08T14:48:01.79Z",
               "EditorCaption": ""
             },
             {
@@ -47,15 +47,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateClientUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Update\\UpdateClientUseCase.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.API\\UseCases\\Clients\\Update\\UpdateClientUseCase.cs",
-              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Update\\UpdateClientUseCase.cs",
-              "RelativeToolTip": "ProductClientHub.API\\UseCases\\Clients\\Update\\UpdateClientUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\GitHub\\ProductClientHub\\ProductClientHub.API\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T22:39:53.545Z",
+              "WhenOpened": "2025-02-08T14:47:46.557Z",
               "EditorCaption": ""
             }
           ]
