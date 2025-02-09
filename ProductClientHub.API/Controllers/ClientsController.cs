@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProductClientHub.API.UseCases.Clients.Delete;
 using ProductClientHub.API.UseCases.Clients.GetAll;
+using ProductClientHub.API.UseCases.Clients.GetbyId;
 using ProductClientHub.API.UseCases.Clients.Register;
 using ProductClientHub.API.UseCases.Clients.Update;
 using ProductClientHub.API.UseCases.Products.Delete;
@@ -26,6 +27,7 @@ public class ClientsController(RegisterClientUseCase registerClientUseCase) : Co
         return Created(string.Empty, response);
     }
 
+
     [HttpPut]
     [Route("{id}")]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
@@ -40,8 +42,9 @@ public class ClientsController(RegisterClientUseCase registerClientUseCase) : Co
         return NoContent();
     }
 
+
     [HttpGet]
-    [ProducesResponseType(typeof(ResponseAllClientsJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ResponseAllClientsJson), StatusCodes.Status200OK)] 
     [ProducesResponseType(StatusCodes.Status204NoContent)]
     public IActionResult GetAll()
     {
@@ -57,15 +60,21 @@ public class ClientsController(RegisterClientUseCase registerClientUseCase) : Co
         return Ok(response);
     }
 
+
     [HttpGet]
     [Route("{id}")] // impede de aceitar nulo, tendo em vista que essa rota foi criada com o intuito de buscar um valor específico
-
-    // [HttpGet("By-Id")]
+    [ProducesResponseType(typeof(ResponseAllClientsJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status404NotFound)]
 
     public IActionResult GetById([FromRoute] Guid id)
     {
-        return Ok();
+        var useCase = new GetCLientByIdUseCase();
+
+        var response = useCase.Execute(id);
+
+        return Ok(response);
     }
+
 
     [HttpDelete]
     [Route("{id}")]
