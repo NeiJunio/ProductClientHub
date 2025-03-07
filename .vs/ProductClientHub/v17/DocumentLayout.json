@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\usecases\\clients\\getbyid\\getclientbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\usecases\\clients\\getbyid\\getclientbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB8C5638-5128-4AB7-95E2-60B8C55943BA}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.communication\\responses\\responseshortproductjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB8C5638-5128-4AB7-95E2-60B8C55943BA}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\responses\\responseshortproductjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\nei junio\\documents\\github\\productclienthub\\productclienthub.api\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD915031-BCE2-4AFD-A0D7-8CB5773C3DAF}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,58 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResponseShortProductJson.cs",
-              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseShortProductJson.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.Communication\\Responses\\ResponseShortProductJson.cs",
-              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseShortProductJson.cs",
-              "RelativeToolTip": "ProductClientHub.Communication\\Responses\\ResponseShortProductJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:42:49.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Entities\\Client.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.API\\Entities\\Client.cs",
-              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Entities\\Client.cs",
-              "RelativeToolTip": "ProductClientHub.API\\Entities\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:27:52.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetCLientByIdUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\GetbyId\\GetCLientByIdUseCase.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.API\\UseCases\\Clients\\GetbyId\\GetCLientByIdUseCase.cs",
-              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\GetbyId\\GetCLientByIdUseCase.cs*",
-              "RelativeToolTip": "ProductClientHub.API\\UseCases\\Clients\\GetbyId\\GetCLientByIdUseCase.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:20:23.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\Nei Junio\\Documents\\Github\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAnwEUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T16:02:23.853Z",
-              "EditorCaption": ""
             }
           ]
         }
